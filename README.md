@@ -1,4 +1,4 @@
 # journal
 
 ## Project setup
-This is nonly for learn some features in vue
+This is only for learn some features in vue
